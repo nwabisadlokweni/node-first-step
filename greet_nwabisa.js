@@ -12,7 +12,7 @@ figlet(greeting, function (err, data) {
         return;
     }
 
-    const styledMessage = chalk.bgGreen.black(data);
+    const styledMessage = chalk.bgWhite.black(data);
     console.log(styledMessage)
 });
 

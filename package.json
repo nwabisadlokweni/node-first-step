@@ -1,0 +1,17 @@
+{
+  "name": "node-first-step",
+  "version": "1.0.0",
+  "description": "",
+  "main": "greet.js",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "figlet": "^1.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
